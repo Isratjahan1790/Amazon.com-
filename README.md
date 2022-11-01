@@ -1,10 +1,9 @@
 # Amazon.com
 ![](https://cdn.britannica.com/15/143115-004-5E4B6632/Amazoncom-logo.jpg)
 
-<h3 align="center">This project contains: Test Plan / Test cases / Report / Bug Report / Test Metrics / Mind Map / XMind / QA & QC / SDLC & STLC</h3>
+<h3 align="center">This project contains: Test cases / Report / Bug Report / Test Metrics / Mind Map / XMind / QA & QC / SDLC & STLC</h3>
 
 # 💫 About this project:
-#### 💫 Test Plan contains: Test plan_ID, Introduction, Test Items, References, Features to be tested, Features not to be tested, Entry Criteria, Exit Criteria, Suspension Criteria, Roles & Responsibilities, Schedule, Training, Risk & Mitigation, Test Environment/Lab, Test Deliverables, Approvals, Glossary.
 
 #### 💫 Test Case contains: Test Case_ID, Module, Test Cases, Features, Fields, Test Data, Step Description, Expected Result, Actual Result, Bug Screenshot, Dev Comments, Final Status, Severity & Priority, Types of Testing.
 ![test case](https://user-images.githubusercontent.com/112747904/199235397-03a030d0-0c0b-41e8-bce5-edd680e40b8a.PNG)
