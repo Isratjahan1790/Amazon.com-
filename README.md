@@ -4,12 +4,30 @@
 <h3 align="center">This project contains: Test Plan / Test cases / Report / Bug Report / Test Metrics / Mind Map / XMind / QA & QC / SDLC & STLC</h3>
 
 # 💫 About this project:
-1) Test Plan contains: Test plan_ID, Introduction, Test Items, References, Features to be tested, Features not to be tested, Entry Criteria, Exit Criteria, Suspension Criteria, Roles & Responsibilities, Schedule, Training, Risk & Mitigation, Test Environment/Lab, Test Deliverables, Approvals, Glossary
-2) Test Case contains: Test Case_ID, Module, Test Cases, Features, Fields, Test Data, Step Description, Expected Result, Actual Result, Bug Screenshot, Dev Comments, Final Status, Severity & Priority, Types of Testing.
-3) Report: Showing Summury.
-4) Bug Report contains: TC_ID, Issue, Reproducing steps, Environment, Module, Severity, Screenshot, Responsible QA.
-5) Test Metrics contains: No. of requirements, Avg. no. of test cases written per requirements, Total no. of test cases written for all requirements, Total no. of test cases executed, No. of test cases passed, No. of test cases failed, No. of test cases blocked, No. of test cases unexecuted, Total no. of defects indentified, Critical defects count, Higher defects count, Medium defects count, Low defects count, Customer defects, No. of defects found in UAT.
-6) MindMap contains a screenshot.
+#### 💫 Test Plan contains: Test plan_ID, Introduction, Test Items, References, Features to be tested, Features not to be tested, Entry Criteria, Exit Criteria, Suspension Criteria, Roles & Responsibilities, Schedule, Training, Risk & Mitigation, Test Environment/Lab, Test Deliverables, Approvals, Glossary.
+
+#### 💫 Test Case contains: Test Case_ID, Module, Test Cases, Features, Fields, Test Data, Step Description, Expected Result, Actual Result, Bug Screenshot, Dev Comments, Final Status, Severity & Priority, Types of Testing.
+![test case](https://user-images.githubusercontent.com/112747904/199235397-03a030d0-0c0b-41e8-bce5-edd680e40b8a.PNG)
+
+ 
+ 
+### 💫 Report: Showing Summury.
+![rerport](https://user-images.githubusercontent.com/112747904/199235352-6abfa084-c25d-4788-8342-a79882baf4cd.PNG)
+
+### 💫 Bug Report contains: TC_ID, Issue, Reproducing steps, Environment, Module, Severity, Screenshot, Responsible QA.
+![bug report](https://user-images.githubusercontent.com/112747904/199235379-817fb151-c70c-4825-9859-46597f55f26d.PNG)
+
+
+
+#### 💫 Test Metrics contains: No. of requirements, Avg. no. of test cases written per requirements, Total no. of test cases written for all requirements, Total no. of test cases executed, No. of test cases passed, No. of test cases failed, No. of test cases blocked, No. of test cases unexecuted, Total no. of defects indentified, Critical defects count, Higher defects count, Medium defects count, Low defects count, Customer defects, No. of defects found in UAT.
+![test metrics](https://user-images.githubusercontent.com/112747904/199235417-d446b098-89ed-41a5-8456-80f9058ef7be.PNG)
+
+
+
+### 💫 MindMap: Showing all the features and their sub-features.
+![Amazon Shopping MimdMap](https://user-images.githubusercontent.com/112747904/199232752-c150df0b-336e-46c6-bed9-7d46cb7d35f1.png)
+
+
 
 
 # 💫 About Me:
@@ -18,4 +36,3 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ishratjahan.1790) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/israt-jahan1790) 
-
