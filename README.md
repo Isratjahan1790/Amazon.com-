@@ -42,5 +42,5 @@
 
 ## ⚡ Skills:
 Test planning / Test case documentation / Test metrics / Bug reporting / Automation testing / API testing with Postman & Newman / Load testing with Jmeter / Mind Map with XMind / Agile & Jira /  Web Automation testing / Mobile aplication testing / Cucumber / Selenium / Cypress / Appium / Javascript /  HTML / CSS / C / JAVA / Python / QA & QC / SDLC & STLC
-## ⚡ My contribution graph:
+## ⚡ My contribution activity:
 ![snake gif](https://github.com/Isratjahan1790/Isratjahan1790/blob/output/github-contribution-grid-snake.gif)
